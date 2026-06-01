@@ -21,6 +21,7 @@ This project is an AI-based implementation of the classic Sokoban game solver. I
 - 
 ## 📄 Project Report
 
-👉 [View Full Report](AI_Sokoban_Report.pdf)
+👉 [View Full Report](AI_Sokoban_Report..pdf
+)
 ## 🎯 Purpose
 To demonstrate AI search techniques and problem-solving strategies in a grid-based environment.
